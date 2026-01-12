@@ -57,4 +57,37 @@ Supports integration setup and troubleshooting within the customer organization 
 - Clear, actionable error messages
 - Reduced need for reactive debugging
 
-**Pa**
+**Pain Points**
+- Black-box integration behavior
+- Inconsistent data outputs
+- Limited visibility into failure causes
+
+**Why this persona matters**  
+Their experience influences long-term trust in the platform and renewal decisions.
+
+---
+
+## Persona 4: Product & Engineering Leadership (Internal)
+**Type:** Decision Maker
+
+**Who they are**  
+Owns roadmap prioritization, staffing decisions, and long-term platform scalability.
+
+**Goals**
+- Predictable delivery timelines
+- Reduced operational drag on engineering
+- Scalable growth without linear headcount increases
+
+**Pain Points**
+- Roadmap disruption due to onboarding and support work
+- Engineering pulled into reactive troubleshooting
+- Difficulty forecasting delivery capacity
+
+**Why this persona matters**  
+This persona approves platform investments and evaluates success at the business level.
+
+---
+
+## Persona Prioritization
+
+Initial prioritization focuses on **Solutions Engineers**, as increasing their leverage reduces onboarding time, improves data reliability, and delivers downstream benefits to customers and leadership.
